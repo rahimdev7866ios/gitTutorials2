@@ -20,5 +20,10 @@ class ViewController: UIViewController {
         print("This is a new repository Access")
     }
     
+    
+    func newAder()  {
+        print("maintingn resource to Git hub and locally increase")
+    }
+    
 }
 
