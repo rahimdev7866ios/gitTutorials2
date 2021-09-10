@@ -15,5 +15,10 @@ class ViewController: UIViewController {
     }
 
 
+    func adding()
+    {
+        print("This is a new repository Access")
+    }
+    
 }
 
